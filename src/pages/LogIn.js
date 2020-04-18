@@ -3,7 +3,7 @@ import { View, Image,Text, TextInput,StyleSheet, TouchableOpacity } from 'react-
 import axios from 'axios';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
-import SignUp from '../component/SignUp';
+import SignUp from '../component/SignUp';        
 
 
 export default class LogIn extends Component {
