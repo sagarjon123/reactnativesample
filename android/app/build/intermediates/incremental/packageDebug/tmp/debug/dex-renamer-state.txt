@@ -1,0 +1,4 @@
+#Sat Apr 18 17:18:07 IST 2020
+base.0=/home/sunil/Documents/ReactNative/git/reactnativesample/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
